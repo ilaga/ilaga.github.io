@@ -5,7 +5,7 @@ subtitle: PhD Candidate, Department of Statistics, Penn State University
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/images/Iceland_1.JPG" alt="" width="300">
+<img align="right" src="/images/Iceland_1_main.JPG" alt="" width="300">
 
 
 ### Contact:
