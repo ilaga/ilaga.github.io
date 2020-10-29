@@ -14,7 +14,7 @@ author: Ian Laga
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://ilaga.github.io"
+  #Home: "https://ilaga.github.io"
   About Me: "aboutme"
   Publications: "publications"
   Research: "research"
