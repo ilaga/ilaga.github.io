@@ -15,6 +15,6 @@ Email: iul25@psu.edu
 
 - **September 2020**: A manuscript on **Modeling the Marked Presence-only Data: A Case Study of Estimating the Female Sex Worker Size in Malawi** is now available on [arXiv]((https://arxiv.org/abs/1912.07099))
 
-- **June 2020**: A book review for **[Model-Based Geostatistics for Global Public Health: Methods and Applications](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1759988)** is now available in the Journal of the *American Statistics Association*
+- **June 2020**: A book review for **[Model-Based Geostatistics for Global Public Health: Methods and Applications](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1759988)** is now available in the *Journal of the American Statistical Association*
 
 - **April 2019**: Won an Honorable Mention in the 2019 National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) 
