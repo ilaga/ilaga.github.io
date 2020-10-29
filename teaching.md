@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Courses at Texas A&M University
+## Courses at Penn State University
 ------------------------------------------------------
 ### Instructor (Full responsibility):
 
