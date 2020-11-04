@@ -5,11 +5,11 @@ title: Research
 
 ### Talks
 
-"The POWER Structure and Why an 80% Correct Solution is Sometimes Better Than a 100% Correct Solution," Topic-Contribued Session, Joint Statistical Meetings, Denver. **August 2019**
-
 "Creating an R Package," Penn State Statistics Graduate Student Association Workshop, **November 2020**
 
 "Introduction to RStan," Penn State Statistics Graduate Student Association Workshop, **November 2019** and **October 2020**
+
+"The POWER Structure and Why an 80% Correct Solution is Sometimes Better Than a 100% Correct Solution," Topic-Contribued Session, Joint Statistical Meetings, Denver. **August 2019**
 
 "The Modified Matérn Process," SIAM Front Range Applied Mathematics Student Conference, University of Colorado at Denver, Denver, Colorado. **March 2016**
 
