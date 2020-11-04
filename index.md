@@ -10,6 +10,7 @@ order: 1
 
 ### Contact:
 Email: iul25@psu.edu
+
 LinkedIn: [Ian-Laga](https://www.linkedin.com/in/ian-laga/)
 
 ### News:
