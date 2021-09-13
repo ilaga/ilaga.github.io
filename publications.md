@@ -23,6 +23,6 @@ title: Publications
 
 - **Laga I** and Niu X. (2019) [*Book Review for:* "Model-Based Geostatistics for Global Public Health: Methods and Applications".](https://doi.org/10.1080/01621459.2020.1759988) *Journal of the American Statistical Association*, Vol 115, No. 530, 1030-1032. doi: 10.1080/01621459.2020.1759988.
 
-- **Laga, I** (2019). "The POWER Structure and Why an 80\% Correct Solution is Sometimes Better Than a 100\% Correct Solution." In JSM Proceedings, Section on Statistical Consulting. Denver, CO: American Statistical Association. 2345-2356
+- **Laga, I** (2019). "The POWER Structure and Why an 80% Correct Solution is Sometimes Better Than a 100% Correct Solution." In JSM Proceedings, Section on Statistical Consulting. Denver, CO: American Statistical Association. 2345-2356
 
 - **Laga, I** and Kleiber, W. (2017) ["The Modified Matérn Process".](https://doi.org/10.1002/sta4.152) *Stat*, 6: 241-247. doi: 10.1002/sta4.152.
