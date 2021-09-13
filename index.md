@@ -15,9 +15,9 @@ LinkedIn: [Ian-Laga](https://www.linkedin.com/in/ian-laga/)
 
 ### News:
 
-- **May 2021**: A manuscript on [**Thirty Years of The Network Scale up Method**](https://doi.org/10.1080/01621459.2021.1935267) was accepted in the *Journal of the American Statistical Association*.
+- **September 2021**: A manuscript on [**Modeling the Marked Presence-only Data: A Case Study of Estimating the Female Sex Worker Size in Malawi**](https://doi.org/10.1080/01621459.2021.1944873) was published online in the *Journal of the American Statistical Association*.
 
-- **September 2020**: A manuscript on **Modeling the Marked Presence-only Data: A Case Study of Estimating the Female Sex Worker Size in Malawi** is now available on [arXiv](https://arxiv.org/abs/1912.07099)
+- **August 2021**: A manuscript on [**Thirty Years of The Network Scale up Method**](https://doi.org/10.1080/01621459.2021.1935267)  was published in the *Journal of the American Statistical Association*.
 
 - **June 2020**: A book review for **[Model-Based Geostatistics for Global Public Health: Methods and Applications](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1759988)** is now available in the *Journal of the American Statistical Association*
 
