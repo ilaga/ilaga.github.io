@@ -30,7 +30,7 @@ My research interests include:
 **Pennsylvania State University**, Ph.D. Statistics, 2022
 **University of Colorado, Boulder**, B.S. Applied Mathematics, 2017
 
-<details><summary><b>News:</b></summary>
+<details><summary><h3>News:</h3></summary>
   <p>
 
 - **November 2021**: Nominated for Pennsylvania State University Eberly College of Science Dean's Climate and Diversity Award
