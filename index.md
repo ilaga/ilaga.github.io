@@ -28,6 +28,7 @@ My research interests include:
 
 ### Education:
 **Pennsylvania State University**, Ph.D. Statistics, 2022
+
 **University of Colorado, Boulder**, B.S. Applied Mathematics, 2017
 
 <details><summary><h3>News:</h3></summary>
