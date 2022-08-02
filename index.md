@@ -30,7 +30,8 @@ My research interests include:
 **Pennsylvania State University**, Ph.D. Statistics, 2022
 **University of Colorado, Boulder**, B.S. Applied Mathematics, 2017
 
-### News:
+<details><summary>### News:</summary>
+  <p>
 
 - **November 2021**: Nominated for Pennsylvania State University Eberly College of Science Dean's Climate and Diversity Award
 
@@ -39,3 +40,5 @@ My research interests include:
 - **September 2021**: A manuscript on [**Modeling the Marked Presence-only Data: A Case Study of Estimating the Female Sex Worker Size in Malawi**](https://doi.org/10.1080/01621459.2021.1944873) was published online in the *Journal of the American Statistical Association*
 
 - **August 2021**: A manuscript on [**Thirty Years of The Network Scale up Method**](https://doi.org/10.1080/01621459.2021.1935267)  was published in the *Journal of the American Statistical Association*
+  <p>
+  <\details>
