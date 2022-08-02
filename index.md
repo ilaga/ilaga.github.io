@@ -33,7 +33,6 @@ My research interests include:
 **University of Colorado, Boulder**, B.S. Applied Mathematics, 2017
 
 <details><summary><h3>News:</h3></summary>
-  <p>
 
 - **November 2021**: Nominated for Pennsylvania State University Eberly College of Science Dean's Climate and Diversity Award
 
@@ -42,5 +41,4 @@ My research interests include:
 - **September 2021**: A manuscript on [**Modeling the Marked Presence-only Data: A Case Study of Estimating the Female Sex Worker Size in Malawi**](https://doi.org/10.1080/01621459.2021.1944873) was published online in the *Journal of the American Statistical Association*
 
 - **August 2021**: A manuscript on [**Thirty Years of The Network Scale up Method**](https://doi.org/10.1080/01621459.2021.1935267)  was published in the *Journal of the American Statistical Association*
-  <p>
-  <\details>
+ <\details>
