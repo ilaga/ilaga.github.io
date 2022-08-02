@@ -16,6 +16,7 @@ My research interests include:
 - Bayesian computation
 - Small area estimation
 - Modeling of hard-to-reach populations like female sex workers
+- Video Game/Esports statistics
 
 ### Research:
 **Collaborators**: I'm excited to work with researchers in a variety of disciplines, so interested collaborators can reach out to me via email to discuss potential projects.
