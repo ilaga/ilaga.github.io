@@ -42,5 +42,5 @@ My research interests include:
 
 - **August 2021**: A manuscript on [**Thirty Years of The Network Scale up Method**](https://doi.org/10.1080/01621459.2021.1935267)  was published in the *Journal of the American Statistical Association*
  
- <\details>
+ </details>
   
