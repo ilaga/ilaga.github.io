@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ian Laga
-subtitle: PhD Candidate, Department of Statistics, Penn State University
+subtitle: Assistant Professor of Statistics, Department of Mathematical Sciences, Montana State University
 use-site-title: true
 order: 1
 ---
