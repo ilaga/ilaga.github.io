@@ -23,7 +23,7 @@ My research interests include:
 **Students**: If you are an undergraduate or graduate student interested in working on topics related to any of my research interested listed above, please send me an email with your name, program of study, academic year, and research interest. I have a variety of projects that need student researchers.
 
 ### Contact:
-**Email**: ilaga25 [at] gmail [dot] com
+**Email**: ian [dot] laga [at] montana [dot] edu
 
 **Office**: Wilson 2-197
 
