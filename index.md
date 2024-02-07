@@ -9,14 +9,13 @@ order: 1
 
 
 ### About Me:
-My name is Ian Laga, and I am joining in Fall 2022 as a new Statistics faculty in department of Mathematical Sciences at Montana State University. 
+My name is Ian Laga, and I joined the Mathematical Sciences department at Montana State University Fall 2022 as a new Assistant Professor of Statistics faculty.
 
 My research interests include:
 - Networks
 - Bayesian computation
 - Small area estimation
 - Modeling of hard-to-reach populations like female sex workers
-- Video Game/Esports statistics
 
 ### Research:
 **Collaborators**: I'm excited to work with researchers in a variety of disciplines, so interested collaborators can reach out to me via email to discuss potential projects.
