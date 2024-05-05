@@ -5,7 +5,7 @@ title: Presentations
 
 ### Talks
 
-"The Network Scale-up Method and the Degree Ratio," Invited Presentation,Simon Fraser University Statistics & Actuarial Science Seminar, Burnaby. **December 2023**
+"The Network Scale-up Method and the Degree Ratio," Invited Presentation, Simon Fraser University Statistics & Actuarial Science Seminar, Burnaby. **December 2023**
 
 "A Correlated Network Scale-up Model: Finding the Connection Between Subpopulations," Invited Presentation, ASA/IMS Spring Research Conference, Banff. **May 2023**
 
