@@ -32,7 +32,7 @@ My research interests include:
 **University of Colorado, Boulder**, B.S. Applied Mathematics, 2017
 
 <details>
- <summary>News:</summary>
+ <summary>**News:**</summary>
 
 
 - **November 2021**: Nominated for Pennsylvania State University Eberly College of Science Dean's Climate and Diversity Award
