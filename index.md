@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Statistics, Department of Mathematical Sciences
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/images/Iceland_1_main.JPG" alt="" width="300">
+<img align="right" src="/images/laga_portrait.jpg" alt="" width="300">
 
 
 ### About Me:
