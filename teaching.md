@@ -5,6 +5,16 @@ title: Teaching
 
 ## Courses at Montana State University
 ------------------------------------------------------
-### STAT 448: Mixed Effects Models
+### Spring 2024
+- **STAT 506: Advanced Regression Analysis**
 
-- **Fall 2022**, check back soon for more information
+### Fall 2023
+- **STAT 425: Biostatistical Data Analysis**
+- **STAT 437: Introduction to Applied Multivariate Analysis**
+
+### Spring 2023
+- **STAT 441/541: Experimental Design**
+- **STAT 506: Advanced Regression Analysis**
+
+### Fall 2022
+- **STAT 448: Mixed Effects Models**
