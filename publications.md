@@ -8,16 +8,14 @@ title: Publications
 - Sanei S\*, **Laga I**\*, Weir S, and Bao L. "Enhancing the precision of female sex worker size estimation with cross-country studies."
     \*Equal contribution
     
-[comment]: <> - **Laga I**, Lin D.K.J., Quinlan K, Zhang M. "Multi-objective optimization for Latin Hyper Cube Designs"
-
 ### Under review:
-- **Laga I**,  Kunke J, McCormick T, and Niu X. ["The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method"](https://doi.org/10.48550/arXiv.2305.04381). [Preprint Version](Degree_ratio_preprint.pdf)
-
-- Kunke J, **Laga I**,  Niu X, and McCormick T. ["Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators"](https://doi.org/10.48550/arXiv.2303.07490). [Preprint Version](PIMLE_preprint.pdf)
-
+- **Laga I**,  Kunke J, McCormick T, and Niu X. ["Estimating and Correcting Degree Ratio Bias in the Network Scale-up Method"](https://doi.org/10.48550/arXiv.2305.04381). [Preprint Version](Degree_ratio_preprint.pdf)
 
 
 ### Published:
+
+- Kunke J, **Laga I**,  Niu X, and McCormick T. ["Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators"](https://doi.org/10.48550/arXiv.2303.07490). *Sociological Methododology*. [Preprint Version](PIMLE_preprint.pdf)
+
 - **Laga I**, Bao L, and Niu X. ["The Correlated Network Scale-up Model: Finding the Connection Between Subpopulations"](https://doi.org/10.1080/01621459.2023.2165929). *The Journal of the American Statistical Association*. [Preprint Version](Correlated_NSUM_preprint.pdf)
 
 - **Laga I**, Niu X, Rucinski K, Baral S, Chen D, Viswasam N, Sabin K, Zhao J, Eaton J.W, and Bao L. ["Mapping the Number of Female Sex Worker in Countries Across Sub-Saharan Africa."](https://doi.org/10.1073/pnas.2200633120). *Proceedings of the National Academy of Sciences*, 120:2, doi: 10.1073/pnas.2200633120.
