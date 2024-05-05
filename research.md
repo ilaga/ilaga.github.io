@@ -31,5 +31,7 @@ title: Presentations
 
 ### Software
 
+`networkscaleup`: Provides a variety of Network Scale-up Models for researchers to analyze Aggregated Relational Data, mostly through the use of Stan. Available for download on [CRAN](https://cran.r-project.org/package=networkscaleup)
+
 `MCPModGeneral`: R-package to supplement the `DoseFinding` package for non-normal data. Available for download on [CRAN](https://CRAN.R-project.org/package=MCPModGeneral)
 
