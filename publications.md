@@ -4,15 +4,20 @@ title: Publications
 ---
 
 
-### In Preparation:
-- Sanei S\*, **Laga I**\*, Weir S, and Bao L. "Enhancing the precision of female sex worker size estimation with cross-country studies."
-    \*Equal contribution
-    
 ### Under review:
-- **Laga I**,  Kunke J, McCormick T, and Niu X. ["Estimating and Correcting Degree Ratio Bias in the Network Scale-up Method"](https://doi.org/10.48550/arXiv.2305.04381). [Preprint Version](Degree_ratio_preprint.pdf)
+- Thiele J, FireMoon P, Johnson O, Reum M, **Laga I**, and Rink E. "Condom Use Self-Efficacy with Indigenous Youth: The Integration of Factor Analysis with Participatory Research." (submitted to *AIDS Care*)
 
+- Thiele J, FireMoon P, Johnson O, **Laga I**, and Rink E. "“If I didn’t have that, then I really don’t know where I’d be”: Examining the Association Between Depression and Participation in Traditional Activities for Indigenous Youth Using a Concurrent Triangulation Design." (submitted to *Social Science & Medicine*)
+
+- Thiele J, FireMoon P, Johnson O, **Laga I**, and Rink E. "The Development and Testing of a Pilot Intervention to Address Sexual Risk Behavior, Substance Use, and Mental Health Among Indigenous Youth Ages 12–18 Years Old." (submitted to *Field Methods*)
+
+- Sanei S, **Laga I**, Weir S, and Bao L. "A Case-Control Sampling Strategy for Zero-Inflated Models with an Application to Female Sex Worker Mapping in Sub-Saharan Africa." (submitted to *The Annals of Applied Statistics*)
 
 ### Published:
+
+- Vogel B, Cummins B, and **Laga I**. ["Accounting for Correlation and Censoring in Bayesian Network Scale-Up Method Models"](https://doi.org/10.1016/j.socnet.2025.07.005). *Social Networks*, 84:101–109. doi: 10.1016/j.socnet.2025.07.005.
+
+- **Laga I**, Kunke J. P., McCormick T. H., and Niu X. ["Estimating and Correcting Degree Ratio Bias in the Network Scale-Up Method"](https://doi.org/10.1177/00491241251364233). *Sociological Methods & Research*. doi: 10.1177/00491241251364233.
 
 - Kunke J, **Laga I**,  Niu X, and McCormick T. ["Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators"](https://doi.org/10.48550/arXiv.2303.07490). *Sociological Methododology*. [Preprint Version](PIMLE_preprint.pdf)
 
