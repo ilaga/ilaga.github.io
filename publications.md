@@ -5,13 +5,17 @@ title: Publications
 
 
 ### Under review:
-- Thiele J, FireMoon P, Johnson O, Reum M, **Laga I**, and Rink E. "Condom Use Self-Efficacy with Indigenous Youth: The Integration of Factor Analysis with Participatory Research." (submitted to *AIDS Care*)
+- Thiele J, FireMoon P, Johnson O, Reum M, **Laga I**, and Rink E. "Condom Use Self-Efficacy with Indigenous Youth: The Integration of Factor Analysis with Participatory Research." (Minor revisions at *AIDS Care*)
 
 - Thiele J, FireMoon P, Johnson O, **Laga I**, and Rink E. "“If I didn’t have that, then I really don’t know where I’d be”: Examining the Association Between Depression and Participation in Traditional Activities for Indigenous Youth Using a Concurrent Triangulation Design." (submitted to *Social Science & Medicine*)
 
-- Thiele J, FireMoon P, Johnson O, **Laga I**, and Rink E. "The Development and Testing of a Pilot Intervention to Address Sexual Risk Behavior, Substance Use, and Mental Health Among Indigenous Youth Ages 12–18 Years Old." (submitted to *Field Methods*)
+- Thiele J, FireMoon P, Johnson O, **Laga I**, and Rink E. "The Development and Testing of a Pilot Intervention to Address Sexual Risk Behavior, Substance Use, and Mental Health Among Indigenous Youth Ages 12–18 Years Old." (submitted to *Journal of Community Health*)
 
-- Sanei S, **Laga I**, Weir S, and Bao L. "A Case-Control Sampling Strategy for Zero-Inflated Models with an Application to Female Sex Worker Mapping in Sub-Saharan Africa." (submitted to *The Annals of Applied Statistics*)
+- Sanei S, **Laga I**, Weir S, and Bao L. "A Case-Control Sampling Strategy for Zero-Inflated Models with an Application to Female Sex Worker Mapping in Sub-Saharan Africa." (Major revisions at *The Annals of Applied Statistics*)
+
+- Ma, J., **Laga I**, and Johnson, E. "What drives hospital reporting gaps? hidden evidence from a national dataset." (Submitted to *The Journal of the American Medical Informatics Association*)
+
+- Fluer, A., **Laga I**, Graham, L., Almirol, E., Meyer, M., Schneider, J., and Cummins, B. From survey data to social multiplex models: Incorporating interlayer correlation from multiple data sources. (Submitted to *Social Networks*)
 
 ### Published:
 
@@ -34,3 +38,8 @@ title: Publications
 - **Laga, I** (2019). "The POWER Structure and Why an 80% Correct Solution is Sometimes Better Than a 100% Correct Solution." In JSM Proceedings, Section on Statistical Consulting. Denver, CO: American Statistical Association. 2345-2356
 
 - **Laga, I** and Kleiber, W. (2017) ["The Modified Matérn Process".](https://doi.org/10.1002/sta4.152) *Stat*, 6: 241-247. doi: 10.1002/sta4.152.
+
+### In Preparation:
+- **Laga I**. "Evaluating the generalized network scale-up method estimator: Evidence from migrant domestic workers in Jordan." (Manuscript in preparation for *Journal of the Royal Statistical Society: Series C*)
+
+- **Laga I**. "Survey-based estimation of probe group sizes in the network scale-up method: A case study from Jordan." (Manuscript in preparation for *Sociological Methodology*) [Preprint Version](https://doi.org/10.48550/arXiv.2511.21938)
